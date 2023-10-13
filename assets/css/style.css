@@ -123,7 +123,7 @@ img {
 
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
-  color: #36415a;
+  color: #fff;
   font-family: "Heebo", sans-serif;
 }
 
@@ -3994,10 +3994,14 @@ button {
   margin-right: 0px !important;
 }
 
+
 .total-cost-bar {
   border-radius: 3px;
   border: 1px solid #e2e4f4;
 }
+
+ 
+
 .total-cost-bar .title-text {
   line-height: 1;
   font-size: 18px;
